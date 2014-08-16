@@ -1,0 +1,9 @@
+Package: datadim
+Title: Estimates Dimention of Datasets
+Version: 0.1
+Authors@R: "Stephen Kaluzny <spkal@washingtion.edu> [aut, cre]"
+Description: Functions for looking at the dimension of datasets. Initial
+ method uses principal componenet analysis on numeric columns.
+Depends: R (>= 3.1.1)
+License: None
+LazyData: true
